@@ -1,5 +1,5 @@
 # metadata-tool
-In the Indian Universities, data science courses are offered to 
+```In the Indian Universities, data science courses are offered to 
 computer science undergraduates only in their higher semesters of 
 under-graduation. Keeping in mind, the growing importance of 
 data science, under-graduates need to be introduced to data 
@@ -15,4 +15,4 @@ students better understand the fundamental concepts in data
 science by observing the applicability of these concepts on realworld datasets. We justify the effectiveness of the tool through a 
 data science classroom scenario, wherein 44 first year 
 undergraduates were encouraged to use the tool and provide 
-constructive feedback.
+constructive feedback.```
